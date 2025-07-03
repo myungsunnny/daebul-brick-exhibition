@@ -1,0 +1,8 @@
+{
+  "name": "daebul-brick-exhibition",
+  "version": "1.0.0",
+  "description": "대불초등학교 브릭모델 전시관",
+  "dependencies": {
+    "cloudinary": "^1.40.0"
+  }
+}
